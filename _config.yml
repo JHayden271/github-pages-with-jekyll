@@ -1,7 +1,3 @@
----
-title: "My Blog"
-date: 2021-11-05
----
 title: "My Blog"
 author: Joshua Hayden
 email: joshhayden@domain.com
@@ -10,4 +6,4 @@ description:  > # this means to ignore newlines until "baseurl:"
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minimal
----
+
